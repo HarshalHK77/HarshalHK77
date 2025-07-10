@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harshal Kumbhar</h1>
-<p><b>A final-year Information Technology student pursuing my B.Tech degree at Rajarambapu Institute of Technology. With a genuine passion for technology and solving real-world problems through innovative solutions, I'm on a continuous journey of growth and exploration in the world of IT.</b>
+<p>I'm a passionate and detail-oriented Software Engineer with a strong foundation in data engineering, ETL pipeline development, and cloud technologies. Over the past few months, I've gained hands-on experience building scalable data solutions using tools like PySpark, Delta Lake, Databricks, and Snowflake during my internship at RSquareSoft Technologies — an experience that has shaped both my technical and collaborative skills.
 
-💼 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻: Currently, I'm enrolled at Rajarambapu Institute of Technology, pursuing Information Technology, and I'm expected to graduate in 2025. Throughout my academic journey, I've been exposed to various IT subjects.
+I enjoy solving real-world problems through technology, optimizing complex workflows, and continuously learning modern tools and best practices in the data ecosystem. I’m also enthusiastic about automation, system design, and building reliable data infrastructure that supports analytics and decision-making at scale.
 
-🚀 𝗦𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: I thrive on problem-solving and am drawn to creating innovative solutions that address real-world challenges, especially in competitive programming and stock market analysis.
-
-🏆 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽: I have the privilege of serving as the President of the Oyster Kode Club at Rajarambapu Institute of Technology. In this role, I lead a dynamic team of coding enthusiasts, organizing coding competitions, workshops, and collaborative projects. This experience has honed my leadership, communication, and teamwork skills.
-
-🌟 𝗔𝘀𝗽𝗶𝗿𝗮𝘁𝗶𝗼𝗻𝘀: Looking ahead, I am eager to continue expanding my skill set and contributing to the IT industry. I am particularly interested in Competitive Programming, PySpark development, and leveraging technology to drive innovation and create value for organizations.
-
-🤝 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗠𝗲: I believe that the strength of the IT community lies in collaboration and knowledge-sharing. I'm open to connecting with fellow students, professionals, and mentors who share my enthusiasm for technology. Let's connect and explore opportunities to learn, collaborate, and grow together.</p>
+Currently working as an Associate Software Engineer, I'm eager to keep growing in the fields of data engineering and distributed systems.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
